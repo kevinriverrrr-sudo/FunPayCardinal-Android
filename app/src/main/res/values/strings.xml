@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FunPay Cardinal</string>
+    <string name="setup_title">FunPay Cardinal</string>
+    <string name="setup_subtitle">Настройка учётной записи FunPay</string>
+    <string name="golden_key_label">Golden Key</string>
+    <string name="golden_key_hint">Введите golden_key (32 символа)</string>
+    <string name="user_agent_label">User Agent</string>
+    <string name="telegram_token_label">Токен Telegram бота (необязательно)</string>
+    <string name="secret_password_label">Секретный пароль</string>
+    <string name="save_button">Сохранить и продолжить</string>
+    <string name="status_stopped">Остановлен</string>
+    <string name="status_running">Активен</string>
+    <string name="status_error">Ошибка</string>
+    <string name="status_starting">Запускается...</string>
+    <string name="start_button">Запустить Cardinal</string>
+    <string name="stop_button">Остановить Cardinal</string>
+    <string name="settings_title">Настройки</string>
+    <string name="logs_title">Логи</string>
+    <string name="auto_raise_title">Автоподнятие лотов</string>
+    <string name="auto_delivery_title">Автодоставка</string>
+    <string name="auto_response_title">Автоответы</string>
+    <string name="telegram_title">Telegram</string>
+    <string name="proxy_title">Прокси</string>
+    <string name="notification_channel">FunPay Cardinal Service</string>
+    <string name="notification_channel_desc">Фоновая служба FunPay Cardinal</string>
+</resources>

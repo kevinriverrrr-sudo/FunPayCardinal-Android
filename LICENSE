@@ -1,0 +1,33 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2024 FunPayCardinal-Android Contributors
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+ADDITIONAL TERMS:
+
+The original FunPayCardinal project by sidor0912 is licensed under its own terms.
+This Android port includes modifications and adaptations for mobile use.
+
+Python components embedded via Chaquopy are subject to their respective licenses:
+- requests: Apache License 2.0
+- beautifulsoup4: MIT License
+- psutil: BSD License
+- colorama: BSD License
+- pytelegrambotapi: GPL-3.0
+- pillow: HPND License
+- lxml: BSD License
+- bcrypt: Apache License 2.0
+- pysocks: BSD License
