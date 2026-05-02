@@ -6,7 +6,7 @@
 
 **Мобильный бот-ассистент продавцов FunPay в вашем телефоне**
 
-[![GitHub Release](https://img.shields.io/github/v/release/USER/FunPayCardinal-Android?style=flat-square&color=7C3AED)](../../releases)
+[![GitHub Release](https://img.shields.io/github/v/release/kevinriverrrr-sudo/FunPayCardinal-Android?style=flat-square&color=7C3AED)](../../releases)
 [![License](https://img.shields.io/badge/license-GPL--3.0-7C3AED?style=flat-square)](./LICENSE)
 [![Android](https://img.shields.io/badge/platform-Android%2026%2B-3DDC84?style=flat-square&logo=android)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/language-Kotlin-7F52FF?style=flat-square&logo=kotlin)](https://kotlinlang.org)
@@ -113,7 +113,7 @@ app/
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/USER/FunPayCardinal-Android.git
+git clone https://github.com/kevinriverrrr-sudo/FunPayCardinal-Android.git
 cd FunPayCardinal-Android
 
 # 2. Открыть проект в Android Studio
