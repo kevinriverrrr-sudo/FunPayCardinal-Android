@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="ru.funpay.cardinal">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
@@ -11,7 +12,7 @@
     <application
         android:name=".CardinalApp"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@android:drawable/sym_def_app_icon"
         android:label="FunPay Cardinal"
         android:supportsRtl="true"
         android:theme="@style/Theme.FunPayCardinal"
